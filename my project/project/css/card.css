@@ -1,0 +1,29 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 10px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    height: 550px;
+}
+.card h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: white;
+}
+.card p {
+    font-size: 14px;
+    color: #ff0000;
+}
+.card img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+#card-container {
+    font-family: 'Fortuna Gothic FlorishC', sans-serif;
+}

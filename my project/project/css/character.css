@@ -1,0 +1,51 @@
+.persons-block {
+    padding: 100px;
+    /*background: black;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+}
+
+.card {
+    padding: 20px;
+    border: 1px solid;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+}
+.card h2 {
+    color: white;
+    margin-top: 10px;
+}
+.card p {
+    margin-top: 10px;
+}
+.person-photo {
+    width: 350px;
+    height: 220px;
+    border-radius: 20px;
+    border: 1px solid;
+}
+
+.person-photo img {
+    width: 100%;
+    height: 100%;
+}
+
+.bio {
+    width: 300px;
+    font-weight: 500;
+}
+
+.age {
+    font-weight: 700;
+}
+
+body {
+    background-color: #000000;
+    color: #f60f0f;
+}

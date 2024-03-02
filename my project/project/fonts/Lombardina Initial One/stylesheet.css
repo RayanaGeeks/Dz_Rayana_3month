@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Lombardina Initial One';
+    src: url('LombardinaInitialOne.eot');
+    src: url('LombardinaInitialOne.eot?#iefix') format('embedded-opentype'),
+        url('LombardinaInitialOne.woff2') format('woff2'),
+        url('LombardinaInitialOne.woff') format('woff'),
+        url('LombardinaInitialOne.ttf') format('truetype'),
+        url('LombardinaInitialOne.svg#LombardinaInitialOne') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ягами Лайт",
+    "age": "23",
+    "gif_url": "https://media0.giphy.com/media/kNBLrv3JiDKw/giphy.gif?cid=ecf05e47pg9xgj32w4k7aghn8u4hg8re4i42qnvkicpy7444&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+    "bio": " Главный герой серии «Тетрадь Смерти». После обнаружения тетради смерти он решает использовать её, чтобы избавить мир от преступников. Его убийства в конце концов были названы японцами работой «Киры»."
+  },
+  {
+    "name": "Эл Лоулайт",
+    "age": "25",
+    "gif_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5dHlpejliaDAxcnUzdDRlZGNydjh5a2tmN2ZuZThwamY5NGxwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif",
+    "bio": "Один из главных героев аниме и манги «Тетрадь Смерти». Считается лучшим детективом мира, расследует дело серийного убийцы по прозвищу «Кира»."
+  },
+  {
+    "name": "Рюк",
+    "age": "?",
+    "gif_url": "https://media0.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=ecf05e47snm80e03fjhwpxbgcto1890mspk2v0xczw939ft3&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+    "bio": "Шинигами, который косвенно отдал тетрадь смерти Лайту Ягами после того, как ему наскучило царство Шинигами. В попытке развлечь себя, он крадет вторую тетрадь и бросает её в человеческий мир, чтобы кто-нибудь её нашёл."
+  },
+  {
+    "name": "Миса Аманэ",
+    "age": "26",
+    "gif_url": "https://pa1.aminoapps.com/6792/cf2dee5d19ede0f30d362c62bd2b8a3f0cf65b86_00.gif",
+    "bio": "Перспективная модель и сторонница Киры, которая в конечном итоге становится вторым Кирой. Купив глаза шинигами, Миса узнаёт, что личность Киры — это Ягами Лайт. После встречи с Лайтом она решает посвятить свою жизнь помощи ему и помочь узнать настоящее имя L."
+  },
+  {
+    "name": "Соитиро Ягами",
+    "age": "48",
+    "gif_url": "https://wikiwarriors.org/mediawiki/images/3/33/Tumblr_pue8048P9f1tk7578o1_1280.jpg",
+    "bio": "заместитель начальника японской полиции и руководитель специального отдела по расследованию дела Киры. Отец Лайта и Саю, муж Сатико Ягами. Его главной целью являлась поимка Киры. Не верит, что его сын может быть Кирой, но доверяет L и не спорит с ним."
+  },
+  {
+    "name": "Ватари(Куиллш Вамми)",
+    "age": "71",
+    "gif_url": "https://wotpack.ru/wp-content/uploads/2024/02/Vatari.jpg",
+    "bio": "Создатель приюта Вамми, воспитатель, правая рука и верный слуга L. Изобретатель и миллионер. До того, как L раскрыл свою личность полицейским из японского штаба расследования, всегда ходил на заседания полиции, ФБР и Интерпола, сам представляя L."
+  },
+  {
+    "name": "Рэм",
+    "age": "?",
+    "gif_url": "https://death-notes.github.io/img/foto/rem2.jpg",
+    "bio": " персонаж аниме и манги «Тетрадь Смерти», бог смерти. Именно из её рук Амане Миса получила свою тетрадь смерти. Как и Рюк, Рем владеет двумя тетрадями, но в отличие от него, получила свою по воле случая."
+  },
+  {
+    "name": "Рей Пенбер",
+    "age": "28",
+    "gif_url": "https://i.pinimg.com/736x/76/41/16/76411697708e8c865084bd5acf84e6bd.jpg",
+    "bio": "агент ФБР, посланный в числе группы из двенадцати оперативников в Японию для расследования дела Киры. Его целью становится семья Ягами, а также семья Китамуры за членами которой он следит, в надежде обнаружить утечку информации из полицейских каналов."
+  },
+  {
+    "name": "Наоми Мисора",
+    "age": "26",
+    "gif_url": "data:image/jpeg;base64,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",
+    "bio": "Невеста Рея Пенбера. После его смерти стала вести расследование . В полицейском участке, она встретилась с Лайтом, которому удалось вытянуть из неё всю информацию, что она успела выяснить и даже хитростью узнать её настоящее имя. После чего Лайт записал её имя в тетрадь, с описанием, что она должна совершить самоубийство так, чтобы её тело не нашли."
+  },
+  {
+    "name": "Ниа",
+    "age": "18",
+    "gif_url": "https://media0.giphy.com/media/123t0dxx3bQdCE/giphy.gif?cid=ecf05e47wvmvkndzd6m0v8ufgpig3mumgscthprswzc7mke1&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+    "bio": "настоящее имя Нэйт Ривер (англ. Near, Nate River) — один из главных персонажей манги и аниме-сериала «Тетрадь смерти». Один из претендентов на место L, позже ставший его наследником"
+  },
+  {
+    "name": "Тэру Миками",
+    "age": "48",
+    "gif_url": "https://wotpack.ru/wp-content/uploads/2024/02/Teru-Mikami.jpg",
+    "bio": "Сторонник, а чуть позже — исполнитель воли Киры и владелец тетради смерти."
+  },
+  {
+    "name": "Киёми Такада",
+    "age": "24",
+    "gif_url": "https://sun9-39.userapi.com/impf/c302404/v302404818/922e/CrbmgMqMk7k.jpg?size=604x340&quality=96&sign=4c7d89ab1a8424c3b7e84a17626f53bf&type=album",
+    "bio": "В начале аниме и манги — однокурсница Лайта Ягами, с которой он встречался недолгое время. Затем — известная телеведущая, «голос Киры», любовница Лайта. Позже начала исполнять роль Киры."
+  }
+]

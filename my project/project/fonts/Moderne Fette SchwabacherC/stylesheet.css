@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Moderne Fette SchwabacherC';
+    src: url('ModerneFetteSchwabacherC.eot');
+    src: url('ModerneFetteSchwabacherC.eot?#iefix') format('embedded-opentype'),
+        url('ModerneFetteSchwabacherC.woff2') format('woff2'),
+        url('ModerneFetteSchwabacherC.woff') format('woff'),
+        url('ModerneFetteSchwabacherC.ttf') format('truetype'),
+        url('ModerneFetteSchwabacherC.svg#ModerneFetteSchwabacherC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
